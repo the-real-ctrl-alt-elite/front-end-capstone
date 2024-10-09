@@ -8,3 +8,4 @@ client/dist/*
 !client/dist/.gitkeep
 
 .vscode/
+node_modules
