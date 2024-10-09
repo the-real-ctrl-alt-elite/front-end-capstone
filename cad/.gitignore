@@ -4,3 +4,7 @@ node_modules
 
 package-lock.json
 
+client/dist/*
+!client/dist/.gitkeep
+
+.vscode/
