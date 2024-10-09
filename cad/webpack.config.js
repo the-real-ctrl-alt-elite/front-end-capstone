@@ -34,4 +34,7 @@ module.exports = {
     open: true, // Webpack automatically open the browser to http://localhost:8080
     hot: true, // enables live reloading
   },
+  resolve: {
+    extensions: ['.js', '.jsx'],
+  },
 };
